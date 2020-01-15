@@ -7,7 +7,7 @@ Assembled into wooden box:
 
 ![PIC](https://github.com/shchuko/CapacitiveProximitySensor/blob/master/pics/pic1.jpg)
 
-Work example without output PWM filtering:
+Work example without filtering output PWM:
 
 ![GIF](https://github.com/shchuko/CapacitiveProximitySensor/blob/master/pics/gif1.gif)
 
